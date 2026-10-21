@@ -6,7 +6,15 @@
     "description": "Explore Chained Beasts with beginner guides, beast unlocks, skills, afflictions, weapons, boss strategies, co-op tips, platform details, and the latest updates.",
     "legalNotice": "Non-official Chained Beasts fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "characters": "Characters",
+    "combat": "Combat",
+    "modes": "Modes",
+    "platforms": "Platforms",
+    "release": "Release",
+    "community": "Community"
+  },
   "home": {
     "meta": {
       "title": "Chained Beasts Wiki — Guides, Builds, Bosses & Co-op Tips",
@@ -411,7 +419,34 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Chained Beasts Guides",
+    "overviewDescription": "Start with beginner tips, advanced tactics, demo advice, mistake fixes, and a full Chained Beasts walkthrough."
+  },
+  "characters": {
+    "overviewTitle": "Chained Beasts Characters",
+    "overviewDescription": "Compare all Chained Beasts characters and classes, then plan wolf, panther, and role-based builds."
+  },
+  "combat": {
+    "overviewTitle": "Chained Beasts Combat & Builds",
+    "overviewDescription": "Learn boss fights, difficulty levels, solo runs, and the best Chained Beasts builds for every squad."
+  },
+  "modes": {
+    "overviewTitle": "Chained Beasts Game Modes",
+    "overviewDescription": "Check multiplayer, co-op, split-screen, crossplay, and single-player details for Chained Beasts."
+  },
+  "platforms": {
+    "overviewTitle": "Chained Beasts Platforms",
+    "overviewDescription": "Find Chained Beasts on Steam, PC, PS5, Xbox, Switch, and Steam Deck with platform-specific details."
+  },
+  "release": {
+    "overviewTitle": "Chained Beasts Release & Updates",
+    "overviewDescription": "Track the Chained Beasts release date, demo, launch details, open beta, and post-launch updates."
+  },
+  "community": {
+    "overviewTitle": "Chained Beasts Community",
+    "overviewDescription": "Join the Chained Beasts community through Reddit and Discord, read reviews, and check system requirements."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -442,9 +477,9 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Official X",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "raceGuides": "Characters",
+    "bossGuides": "Boss Fights",
+    "buildGuide": "Best Builds",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
