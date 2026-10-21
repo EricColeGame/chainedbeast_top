@@ -2,7 +2,7 @@
 import { siteConfig } from "@/config/site";
 
 import Link from "next/link";
-import { ArrowRight, BookOpen, Boxes, ChevronRight, CircleHelp, Code2, Compass, Flame, Map as MapIcon, ScrollText, Shield, Skull, Swords, Trophy, Users, Zap, type LucideIcon } from "lucide-react";
+import { ArrowRight, BookOpen, Boxes, ChevronRight, CircleHelp, Code2, Compass, ExternalLink, Flame, Map as MapIcon, ScrollText, Shield, Skull, Swords, Trophy, Users, Zap, type LucideIcon } from "lucide-react";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
@@ -32,11 +32,16 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
         </div>
         <p className="mx-auto mt-5 max-w-3xl text-base leading-relaxed text-muted-foreground">{home.hero.description}</p>
         <div className="mt-4 flex flex-wrap items-center justify-center gap-1.5">{home.hero.stats.map((stat) => <span key={stat} className="inline-flex items-center gap-1 rounded-full bg-muted px-2.5 py-0.5 text-xs font-medium text-muted-foreground">{stat}</span>)}</div>
+        <div className="mt-6 flex flex-wrap items-center justify-center gap-3">
+          <Button asChild size="lg"><Link href={localizeHref("/guide", locale)}>{home.hero.primaryCta}<ArrowRight className="ml-2 h-4 w-4" /></Link></Button>
+          <Button asChild size="lg" variant="outline"><a href={siteConfig.gameUrl} target="_blank" rel="noopener noreferrer">{home.hero.secondaryCta}<ExternalLink className="ml-2 h-4 w-4" /></a></Button>
+          <Button asChild size="lg" variant="ghost"><a href="#official-trailer">{home.hero.tertiaryCta}</a></Button>
+        </div>
       </section>
 
       {/* Official trailer immediately after the hero */}
       {YOUTUBE_VIDEO_ID && (
-        <section className="mx-auto w-full max-w-5xl" aria-label={home.hero.videoLabel}>
+        <section id="official-trailer" className="mx-auto w-full max-w-5xl scroll-mt-24" aria-label={home.hero.videoLabel}>
           <TrailerButton videoId={YOUTUBE_VIDEO_ID} />
         </section>
       )}

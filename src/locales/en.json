@@ -2,9 +2,9 @@
   "site": {
     "name": "Chained Beasts Wiki",
     "shortName": "Chained Beasts",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to Chained Beasts on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-    "legalNotice": "Non-official fan wiki. Made by players, for players."
+    "tagline": "Beasts, Builds, Bosses & Co-op Guides",
+    "description": "Explore Chained Beasts with beginner guides, beast unlocks, skills, afflictions, weapons, boss strategies, co-op tips, platform details, and the latest updates.",
+    "legalNotice": "Non-official Chained Beasts fan wiki. Made by players, for players."
   },
   "nav": {
     "races": "Races",
@@ -30,19 +30,19 @@
       "description": "Complete Chained Beasts guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "Chained Beasts",
-      "description": "Master your restaurant in Chained Beasts on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Co-op Gladiator Roguelite",
+      "title": "Chained Beasts Wiki",
+      "description": "Fight through brutal gladiator arenas while chained to your friends. Explore beasts, skills, weapons, afflictions, bosses, builds, and co-op strategies.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "Oct 15, 2026 Release",
+        "8 Beasts",
+        "70+ Afflictions",
+        "604 Steam Reviews"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "secondaryCta": "Play on Steam",
+      "tertiaryCta": "Official Trailer",
+      "videoLabel": "Chained Beasts official launch trailer"
     },
     "updates": {
       "title": "Latest Updates",
@@ -342,10 +342,10 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master Chained Beasts?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Enter the Arena?",
+      "description": "Chain up with your friends, master all eight beasts, and survive 70+ afflictions with our free Chained Beasts guides.",
       "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "secondary": "Play on Steam"
     }
   },
   "bosses": {
@@ -380,16 +380,16 @@
   },
   "footer": {
     "aboutTitle": "Chained Beasts Wiki",
-    "about": "Chained Beasts Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "about": "Chained Beasts Wiki is an independent fan-built guide hub covering beasts, skills, afflictions, weapons, bosses, builds, and co-op strategies for Featherweight Games' gladiator roguelite.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 Chained Beasts Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play Chained Beasts",
+    "copyright": "© 2026 Chained Beasts Wiki. Not affiliated with Featherweight Games or Valve.",
+    "description": "1–4 player co-op gladiator roguelite on Steam. 8 beasts, 70+ afflictions, and brutal arena runs.",
+    "playGame": "Play on Steam",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "Chained Beasts Builder (Skill Planner)",
+    "vvBuilder": "Official X",
     "beginnerGuide": "Beginner Guide",
     "raceGuides": "Race Guides",
     "bossGuides": "Boss Guides",
