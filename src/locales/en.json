@@ -9,8 +9,8 @@
   "nav": {},
   "home": {
     "meta": {
-      "title": "Chained Beasts Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete Chained Beasts guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Chained Beasts Wiki — Guides, Builds, Bosses & Co-op Tips",
+      "description": "Master Chained Beasts with beginner guides, chain combat tips, boss strategies, character roles, builds, co-op advice, and launch updates."
     },
     "hero": {
       "eyebrow": "Co-op Gladiator Roguelite",
@@ -39,288 +39,368 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the ankle chain, land your first chain trip, and keep a backup weapon ready before the opening arena waves."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Pick Your Role",
+          "description": "Compare Frontliner, Anchor, Chaos-Maker, and Quartermaster roles to build a stable formation for your squad size."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Best Builds",
+          "description": "Build around chain control, safe weapon throws, crowd favor, and afflictions that keep your main attack usable."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Chained Beasts."
+          "title": "Boss Prep",
+          "description": "Read champion tells, treat wounds before the gate, and turn spike walls, snake pits, and urns into finishers."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Trending Chained Beasts Guides",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Boss Fights",
+        "Best Builds",
+        "Co-op Roles"
       ],
       "cards": [
         {
           "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "title": "Chained Beasts Beginner Guide",
+          "description": "Chain trips, safe weapon throws, healing choices, and the opening steps that keep a new gladiator alive.",
+          "href": "/guide/chained-beasts-beginner-guide"
+        },
+        {
+          "badge": "Combat",
+          "title": "Chained Beasts Boss Fights",
+          "description": "Boss tells, chain positioning, wound treatment, and phase-by-phase tactics for arena champions.",
+          "href": "/combat/chained-beasts-boss-fights"
+        },
+        {
+          "badge": "Builds",
+          "title": "Chained Beasts Best Builds",
+          "description": "Beginner-safe, chain-control, arena, and ranged build frameworks for solo and co-op runs.",
+          "href": "/combat/chained-beasts-best-builds"
+        },
+        {
+          "badge": "Roles",
+          "title": "Chained Beasts Classes",
+          "description": "Frontliner, Anchor, Chaos-Maker, and Quartermaster roles plus team composition by player count.",
+          "href": "/characters/chained-beasts-classes"
+        },
+        {
+          "badge": "Co-op",
+          "title": "Chained Beasts Co-op Guide",
+          "description": "Shared movement, role assignments, tangle recovery, and the habits that keep a four-player chain alive.",
+          "href": "/modes/chained-beasts-co-op"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Chained Beasts Update Plan",
+          "description": "Launch details, post-release fixes, balance plans, progression improvements, and upcoming content.",
+          "href": "/release/chained-beasts-update"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Chained Beasts?",
       "paragraphs": [
-        "Chained Beasts is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Chained Beasts is a 1–4 player co-op gladiator roguelite from Featherweight Games. Each gladiator is physically chained to their teammates, turning every dodge, charge, and weapon throw into a shared movement problem. Runs span nine battles across three acts, with arena champions waiting at the end of each stretch.",
+        "Between fights, players learn skills, spend coin on weapons and equipment, earn crowd favor, and unlock new characters. Wounds persist across days in the arena, and potions can trade pain relief for new afflictions, so a strong run depends on chain discipline, careful healing, and using hazards such as urns, spike walls, and snake pits."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Featherweight Games"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Release",
+          "value": "Oct 15, 2026"
+        },
+        {
+          "label": "Players",
+          "value": "1–4"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Co-op roguelite"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Platform",
+          "value": "PC (Steam)"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Beasts",
+          "value": "8"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Afflictions",
+          "value": "70+"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Steam Rating",
+          "value": "Very Positive"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore Chained Beasts Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Chained Beasts",
+      "description": "Use these Chained Beasts guides to learn the chain, master arena combat, choose a role, plan progression, and track post-launch updates.",
       "modules": [
         {
           "order": 1,
-          "name": "Chained Beasts Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/chained-beasts-codes",
-          "displayType": "code-box",
+          "name": "Chained Beasts Beginner Guide",
+          "description": "Learn the chain tether, basic combat, arena hazards, healing choices, and the opening steps that keep a new gladiator alive.",
+          "href": "/guide/chained-beasts-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Finish the blocking and throwing tutorial before entering a live arena run."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Keep the chain visible, call your movement, and practice a chain trip in open ground."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Identify a replacement weapon before every throw so you are never caught empty-handed."
+            },
+            {
+              "label": "4",
+              "detail": "Use the scorecard's Variety, Tempo, and Carnage rows to choose one improvement for the next fight."
+            },
+            {
+              "label": "5",
+              "detail": "Treat potions carefully and pick an affliction that leaves your main attack usable."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/chained-beasts-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Chained Beasts Gameplay Guide",
+          "description": "Understand the run structure, crowd favor, skill choices, weapon economy, and shared chain movement that define every arena attempt.",
+          "href": "/guide/chained-beasts-advanced-tips",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "9 Battles",
+              "detail": "Each run spans nine battles across three acts, with a boss at the end of each stretch."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Chain",
+              "detail": "A deliberate sweep can trip enemies and open backstab windows without spending ammo."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Crowd",
+              "detail": "Crowd favor compounds during a run and feeds rewards, upgrades, and character progress."
+            },
+            {
+              "label": "Skills",
+              "detail": "More than 70 skills are available, so choose upgrades that support the build already in hand."
+            },
+            {
+              "label": "Throws",
+              "detail": "Weapon throws add ranged pressure, but keep a replacement nearby before committing."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/chained-beasts-tier-list",
-          "displayType": "tier-grid",
+          "name": "Chained Beasts Characters and Beasts",
+          "description": "Compare gladiator kits, unlock routes, role archetypes, and team compositions for solo, duo, and four-player chains.",
+          "href": "/characters/chained-beasts-all-characters",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Frontliner",
+              "detail": "Starts fights, pressures enemies, and absorbs attention while the chain holds formation."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Anchor",
+              "detail": "Holds ground, controls space, and calls the direction when the squad wraps around a pillar."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Chaos",
+              "detail": "Turns urns, spike walls, and snake pits into damage while ranging wide on the chain."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Support",
+              "detail": "Manages coin, potions, crowd favor, and recovery so the squad can regroup."
+            },
+            {
+              "label": "Unlocks",
+              "detail": "Crowd favor, coin, boss clears, and 60 Steam achievements drive character unlocks."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/chained-beasts-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Chained Beasts Combat Guide",
+          "description": "Study boss tells, chain trips, hazard kills, wound management, and the phase-by-phase tactics used against arena champions.",
+          "href": "/combat/chained-beasts-boss-fights",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "1",
+              "detail": "Read the champion's opening tells before spending weapons, potions, or crowd favor."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "2",
+              "detail": "Keep the Anchor closest to the boss and call every dodge so the chain does not drag a teammate into a swing."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "3",
+              "detail": "Sweep a taut chain across the boss's charge path to create a knockdown and a safe follow-up window."
+            },
+            {
+              "label": "4",
+              "detail": "Treat wounds before the gate; potions and surgery are safer between fights than during a champion encounter."
+            },
+            {
+              "label": "5",
+              "detail": "Finish with throw-and-swap pressure or redirect the boss into a spike wall or snake pit."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/chained-beasts-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Chained Beasts Progression Guide",
+          "description": "Plan coin spending, skill picks, character unlocks, injury treatment, and the route from early arena waves to Rome.",
+          "href": "/guide/chained-beasts-walkthrough",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Coin",
+              "detail": "Bank a portion every run and buy one run-defining weapon instead of three small upgrades."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Skills",
+              "detail": "Take skills that patch your worst matchup rather than stacking damage for an easy one."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Unlocks",
+              "detail": "Push deeper for boss clears and use crowd favor, coin, and achievements to expand the roster."
+            },
+            {
+              "label": "Wounds",
+              "detail": "Carry manageable injuries and treat the ones that break your main attack before the next boss."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/chained-beasts-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Chained Beasts Tips and Tricks",
+          "description": "Use practical chain positioning, throw-and-swap routines, potion timing, and crowd-favor habits to avoid common run-ending mistakes.",
+          "href": "/guide/chained-beasts-tips-and-tricks",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Chain",
+              "detail": "Set the trip line before a wave reaches you, and retrace your movement when the links wrap a pillar."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Throws",
+              "detail": "Call the throw, plant your feet, and confirm a replacement weapon before releasing."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Potions",
+              "detail": "Drink early enough for side effects to settle before the next gate, not during a boss wind-up."
+            },
+            {
+              "label": "Crowd",
+              "detail": "Environmental kills and flashy finishers build favor faster than safe chip damage."
+            },
+            {
+              "label": "Surgery",
+              "detail": "Save the heavier fix for downtime between fights instead of a live brawl."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Chained Beasts Tier List",
+          "description": "Rank the four co-op roles by chain stability, beginner comfort, and boss utility, then adjust for your squad size and unlocked gladiators.",
+          "href": "/characters/chained-beasts-classes",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Anchor — best chain stability: holds ground, calls the unwind, and keeps a tangled squad calm."
+            },
+            {
+              "label": "A",
+              "detail": "Frontliner — sets the tempo and baits boss swings, but needs a partner who will not yank the chain mid-swing."
+            },
+            {
+              "label": "B",
+              "detail": "Chaos-Maker — turns arena hazards into damage, with more risk when the formation is tight."
+            },
+            {
+              "label": "C",
+              "detail": "Quartermaster — handles coin, potions, crowd favor, and recovery; strongest across a full run rather than one fight."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Chained Beasts News and Updates",
+          "description": "Track confirmed release details, launch pricing, post-launch fixes, balance plans, progression improvements, and upcoming content.",
+          "href": "/release/chained-beasts-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Release",
+              "detail": "Chained Beasts launched on October 15, 2026 for Windows and macOS through Steam."
+            },
+            {
+              "label": "Price",
+              "detail": "The standard price is $19.99, with a 35% launch discount to $12.99 through October 29."
+            },
+            {
+              "label": "Patches",
+              "detail": "The first post-launch update arrived on October 20, 2026; check Steam for current notes."
+            },
+            {
+              "label": "Roadmap",
+              "detail": "Featherweight Games outlined fixes, balance changes, progression improvements, and new content."
+            },
+            {
+              "label": "Demo",
+              "detail": "A free demo is available on Steam and covers the opening co-op arena loop."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Chained Beasts.",
+      "title": "Chained Beasts FAQ",
+      "description": "Quick answers about Chained Beasts combat, co-op, progression, and release details.",
       "items": [
         {
           "question": "What is Chained Beasts?",
-          "answer": "Chained Beasts is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Chained Beasts is a 1–4 player co-op gladiator roguelite from Featherweight Games. Players are chained together in the arena, fight through nine battles across three acts, and use skills, weapons, crowd favor, and persistent wounds to push toward Rome."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How many players can play Chained Beasts?",
+          "answer": "Chained Beasts supports one to four players, with online co-op, shared and split-screen play, cross-platform multiplayer, and Remote Play Together."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How does the chain work in Chained Beasts?",
+          "answer": "Every Chained Beasts gladiator is physically linked to their teammates. The chain can trip enemies and create backstab windows, but it also shares movement, so a dodge or retreat can pull the whole group out of position."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What should beginners do first in Chained Beasts?",
+          "answer": "New Chained Beasts players should finish the blocking and throwing tutorial, practice a chain trip in open ground, and confirm a replacement weapon before throwing."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "When did Chained Beasts release?",
+          "answer": "Chained Beasts launched on October 15, 2026 for Windows and macOS through Steam. A free demo is available, and the standard price is $19.99."
         }
       ]
     },
