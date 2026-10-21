@@ -13,10 +13,11 @@ type Messages = typeof en;
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
-  const title = "Chained Beasts Wiki - Builds, Beasts & Guides";
-  const description = siteConfig.description;
+  const messages = (await getMessages({ locale })) as Messages;
+  const title = messages.home.meta.title;
+  const description = messages.home.meta.description;
   return {
-    title,
+    title: { absolute: title },
     description,
     keywords: "Chained Beasts, Steam, co-op roguelite, beasts, builds, skills, weapons, afflictions, boss guide",
     alternates: { canonical: `/${locale}`, languages: Object.fromEntries(routing.locales.map((loc) => [loc, `/${loc}`])) },

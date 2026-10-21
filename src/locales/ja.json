@@ -1,1 +1,486 @@
-{}
+{
+  "site": {
+    "name": "Chained Beasts Wiki",
+    "shortName": "Chained Beasts",
+    "tagline": "ビースト、ビルド、ボス、協力プレイのガイド",
+    "description": "Chained Beasts の初心者ガイド、ビースト解放、スキル、状態異常、武器、ボス攻略、協力プレイのコツ、対応プラットフォーム、最新アップデートをまとめています。",
+    "legalNotice": "Chained Beasts の非公式ファン Wiki です。プレイヤーによる、プレイヤーのためのサイトです。"
+  },
+  "nav": {
+    "guide": "ガイド",
+    "characters": "キャラクター",
+    "combat": "戦闘",
+    "modes": "モード",
+    "platforms": "対応機種",
+    "release": "リリース",
+    "community": "コミュニティ"
+  },
+  "home": {
+    "meta": {
+      "title": "Chained Beasts Wiki — ガイド、ビルド、ボス、協力プレイのコツ",
+      "description": "初心者ガイド、鎖を使った戦闘のコツ、ボス攻略、キャラクターの役割、ビルド、協力プレイのアドバイス、ローンチ情報で Chained Beasts を極めましょう。"
+    },
+    "hero": {
+      "eyebrow": "協力プレイ型グラディエーター・ローグライト",
+      "title": "Chained Beasts Wiki",
+      "description": "仲間と鎖でつながれたまま、過酷なグラディエーター闘技場を生き抜こう。ビースト、スキル、武器、状態異常、ボス、ビルド、協力プレイの戦術を解説します。",
+      "stats": [
+        "2026年10月15日リリース",
+        "8種のビースト",
+        "70以上の状態異常",
+        "Steamレビュー604件"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "Steamでプレイ",
+      "tertiaryCta": "公式トレーラー",
+      "videoLabel": "Chained Beasts 公式ローンチトレーラー"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "ここから始める",
+      "title": "Chained Beasts の旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "足首の鎖を理解し、最初の鎖での足払いを決め、序盤の闘技場ウェーブに備えて予備の武器を用意しましょう。"
+        },
+        {
+          "number": "2",
+          "title": "役割を選ぶ",
+          "description": "前衛、アンカー、カオスメイカー、クォーターマスターを比較し、人数に合った安定した陣形を組みましょう。"
+        },
+        {
+          "number": "3",
+          "title": "最強ビルド",
+          "description": "鎖による制御、安全な武器投げ、観客の支持、そして主力攻撃を使い続けられる状態異常を軸にビルドしましょう。"
+        },
+        {
+          "number": "4",
+          "title": "ボス対策",
+          "description": "チャンピオンの予備動作を読み、門の前で傷を治療し、トゲ壁、蛇穴、壺をフィニッシュに活用しましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "注目の Chained Beasts ガイド",
+      "quickLinks": [
+        "初心者ガイド",
+        "ボス戦",
+        "最強ビルド",
+        "協力プレイの役割"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "Chained Beasts 初心者ガイド",
+          "description": "鎖での足払い、安全な武器投げ、回復の選択、新しい剣闘士が生き残るための序盤の手順を解説します。",
+          "href": "/guide/chained-beasts-beginner-guide"
+        },
+        {
+          "badge": "戦闘",
+          "title": "Chained Beasts ボス戦",
+          "description": "ボスの予備動作、鎖の位置取り、傷の治療、闘技場チャンピオンへのフェーズ別攻略を紹介します。",
+          "href": "/combat/chained-beasts-boss-fights"
+        },
+        {
+          "badge": "ビルド",
+          "title": "Chained Beasts 最強ビルド",
+          "description": "ソロと協力プレイ向けの、初心者に安全な鎖制御型、闘技場型、遠距離型ビルドの枠組みを解説します。",
+          "href": "/combat/chained-beasts-best-builds"
+        },
+        {
+          "badge": "役割",
+          "title": "Chained Beasts クラス",
+          "description": "前衛、アンカー、カオスメイカー、クォーターマスターの役割と、プレイヤー人数別のチーム構成を紹介します。",
+          "href": "/characters/chained-beasts-classes"
+        },
+        {
+          "badge": "協力",
+          "title": "Chained Beasts 協力プレイガイド",
+          "description": "共有移動、役割分担、絡まった鎖の復帰、4人パーティの鎖を維持する習慣を解説します。",
+          "href": "/modes/chained-beasts-co-op"
+        },
+        {
+          "badge": "更新",
+          "title": "Chained Beasts アップデート計画",
+          "description": "ローンチ詳細、リリース後の修正、バランス調整計画、進行改善、今後のコンテンツをまとめています。",
+          "href": "/release/chained-beasts-update"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Chained Beasts とは？",
+      "paragraphs": [
+        "Chained Beasts は Featherweight Games が手がける1〜4人協力プレイのグラディエーター・ローグライトです。各剣闘士は仲間と物理的に鎖でつながれており、回避、突進、武器投げのすべてがチーム全体の移動問題になります。1回のランは3幕にまたがる9戦で構成され、各幕の最後には闘技場のチャンピオンが待ち受けます。",
+        "戦闘の合間にはスキルを習得し、コインを武器や装備に使い、観客の支持を集め、新しいキャラクターを解放します。傷は闘技場での日数をまたいで残り、ポーションは痛みを和らげる代わりに新たな状態異常をもたらすことがあります。強いランには鎖の規律、慎重な回復、壺やトゲ壁、蛇穴といった危険地帯の活用が欠かせません。"
+      ],
+      "stats": [
+        {
+          "label": "開発",
+          "value": "Featherweight Games"
+        },
+        {
+          "label": "リリース",
+          "value": "2026年10月15日"
+        },
+        {
+          "label": "プレイヤー",
+          "value": "1〜4人"
+        },
+        {
+          "label": "ジャンル",
+          "value": "協力プレイ・ローグライト"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "ビースト",
+          "value": "8"
+        },
+        {
+          "label": "状態異常",
+          "value": "70以上"
+        },
+        {
+          "label": "Steam評価",
+          "value": "非常に好評"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Chained Beasts を探索",
+      "description": "これらの Chained Beasts ガイドで鎖の扱いを学び、闘技場の戦闘を極め、役割を選び、進行を計画し、ローンチ後の更新を追いましょう。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Chained Beasts 初心者ガイド",
+          "description": "鎖のつながり、基本戦闘、闘技場の危険、回復の選択、新しい剣闘士が生き残るための序盤の手順を学びます。",
+          "href": "/guide/chained-beasts-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "実際の闘技場ランを始める前に、ブロックと投げのチュートリアルを完了しましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "鎖を見える位置に保ち、移動を声に出して共有し、開けた場所で鎖の足払いを練習しましょう。"
+            },
+            {
+              "label": "3",
+              "detail": "投げる前に必ず予備の武器を確認し、丸腰になる状況を避けましょう。"
+            },
+            {
+              "label": "4",
+              "detail": "スコアカードの多様性、テンポ、殺戮の項目を使い、次の戦闘に向けた改善を1つ選びましょう。"
+            },
+            {
+              "label": "5",
+              "detail": "ポーションは慎重に扱い、主力攻撃を使い続けられる状態異常を選びましょう。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Chained Beasts ゲームプレイガイド",
+          "description": "ランの構成、観客の支持、スキル選択、武器経済、そして闘技場での挑戦を形作る共有の鎖移動を理解しましょう。",
+          "href": "/guide/chained-beasts-advanced-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "9戦",
+              "detail": "各ランは3幕にまたがる9戦で構成され、各幕の最後にボスが待ち受けます。"
+            },
+            {
+              "label": "鎖",
+              "detail": "意図的な振り回しで敵を転倒させ、弾薬を使わずに背後からの攻撃機会を作れます。"
+            },
+            {
+              "label": "観客",
+              "detail": "観客の支持はラン中に積み重なり、報酬、アップグレード、キャラクターの進行につながります。"
+            },
+            {
+              "label": "スキル",
+              "detail": "70以上のスキルがあります。すでに手元にあるビルドを支えるアップグレードを選びましょう。"
+            },
+            {
+              "label": "投げ",
+              "detail": "武器投げは遠距離の圧力を加えますが、投げる前に予備の武器を近くに用意しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Chained Beasts キャラクターとビースト",
+          "description": "剣闘士のキット、解放ルート、役割のアーキタイプ、ソロ・2人・4人の鎖に向けたチーム構成を比較します。",
+          "href": "/characters/chained-beasts-all-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "前衛",
+              "detail": "戦闘を始め、敵に圧力をかけ、鎖が陣形を保つ間に注意を引き受けます。"
+            },
+            {
+              "label": "アンカー",
+              "detail": "足場を守り、空間を制御し、チームが柱の周りで絡まったときに方向を指示します。"
+            },
+            {
+              "label": "カオス",
+              "detail": "壺、トゲ壁、蛇穴をダメージに変え、鎖の範囲を広く使って立ち回ります。"
+            },
+            {
+              "label": "支援",
+              "detail": "コイン、ポーション、観客の支持、回復を管理し、チームが立て直せるようにします。"
+            },
+            {
+              "label": "解放",
+              "detail": "観客の支持、コイン、ボス撃破、Steam実績60個がキャラクター解放を進めます。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Chained Beasts 戦闘ガイド",
+          "description": "ボスの予備動作、鎖での足払い、危険地帯による撃破、傷の管理、闘技場チャンピオンへのフェーズ別戦術を学びます。",
+          "href": "/combat/chained-beasts-boss-fights",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "武器、ポーション、観客の支持を使う前に、チャンピオンの開始動作を読みましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "アンカーをボスに最も近い位置に置き、回避をすべて共有して、鎖が仲間を攻撃に引き込まないようにしましょう。"
+            },
+            {
+              "label": "3",
+              "detail": "張った鎖をボスの突進経路に振り抜き、転倒させて安全な追撃の機会を作りましょう。"
+            },
+            {
+              "label": "4",
+              "detail": "門の前で傷を治療しましょう。ポーションと手術は、チャンピオン戦の最中よりも戦闘間の方が安全です。"
+            },
+            {
+              "label": "5",
+              "detail": "投げと持ち替えの圧力で締めるか、ボスをトゲ壁や蛇穴へ誘導して倒しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Chained Beasts 進行ガイド",
+          "description": "コインの使い道、スキル選択、キャラクター解放、負傷の治療、序盤の闘技場ウェーブからローマまでの道筋を計画します。",
+          "href": "/guide/chained-beasts-walkthrough",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "コイン",
+              "detail": "毎回のランで一部を貯金し、小さなアップグレード3つよりもランを決める武器1つを買いましょう。"
+            },
+            {
+              "label": "スキル",
+              "detail": "楽な相手にダメージを重ねるのではなく、最も苦手な戦いを補うスキルを取りましょう。"
+            },
+            {
+              "label": "解放",
+              "detail": "ボス撃破を目指して深く進み、観客の支持、コイン、実績でロスターを広げましょう。"
+            },
+            {
+              "label": "傷",
+              "detail": "対処できる負傷は抱え、主力攻撃を妨げる傷は次のボス前に治療しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Chained Beasts ヒントとコツ",
+          "description": "実践的な鎖の位置取り、投げと持ち替えの手順、ポーションのタイミング、観客の支持を稼ぐ習慣で、ラン終了につながるよくあるミスを避けましょう。",
+          "href": "/guide/chained-beasts-tips-and-tricks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "鎖",
+              "detail": "ウェーブが到達する前に足払いのラインを決め、鎖が柱に絡んだら来た道を戻りましょう。"
+            },
+            {
+              "label": "投げ",
+              "detail": "投げることを共有し、足を固定し、放す前に予備の武器を確認しましょう。"
+            },
+            {
+              "label": "ポーション",
+              "detail": "副作用が次の門の前に収まるよう早めに飲み、ボスの予備動作中には飲まないようにしましょう。"
+            },
+            {
+              "label": "観客",
+              "detail": "環境キルや派手なフィニッシュは、安全な小ダメージよりも早く支持を集めます。"
+            },
+            {
+              "label": "手術",
+              "detail": "大きな治療は乱戦中ではなく、戦闘間の休憩に取っておきましょう。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Chained Beasts ティアリスト",
+          "description": "4つの協力プレイ役割を鎖の安定性、初心者の扱いやすさ、ボスでの有用性で評価し、人数と解放済みの剣闘士に合わせて調整します。",
+          "href": "/characters/chained-beasts-classes",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "アンカー — 最高の鎖安定性。足場を守り、ほどく方向を指示し、絡まったチームを落ち着かせます。"
+            },
+            {
+              "label": "A",
+              "detail": "前衛 — テンポを作りボスの振りを誘いますが、振りの最中に鎖を引っ張らない相棒が必要です。"
+            },
+            {
+              "label": "B",
+              "detail": "カオスメイカー — 闘技場の危険をダメージに変えますが、陣形が狭いとリスクが高まります。"
+            },
+            {
+              "label": "C",
+              "detail": "クォーターマスター — コイン、ポーション、観客の支持、回復を担当。1戦よりもラン全体で強みを発揮します。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Chained Beasts ニュースと更新",
+          "description": "確定したリリース情報、ローンチ価格、リリース後の修正、バランス計画、進行改善、今後のコンテンツを追います。",
+          "href": "/release/chained-beasts-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "リリース",
+              "detail": "Chained Beasts は2026年10月15日、Steamを通じてWindowsとmacOS向けにリリースされました。"
+            },
+            {
+              "label": "価格",
+              "detail": "通常価格は19.99ドルで、10月29日まで35%のローンチ割引により12.99ドルです。"
+            },
+            {
+              "label": "パッチ",
+              "detail": "リリース後初のアップデートは2026年10月20日に配信されました。最新の情報はSteamで確認してください。"
+            },
+            {
+              "label": "ロードマップ",
+              "detail": "Featherweight Games は修正、バランス変更、進行改善、新コンテンツの計画を示しました。"
+            },
+            {
+              "label": "体験版",
+              "detail": "Steamでは無料体験版が配信されており、序盤の協力プレイ闘技場ループを遊べます。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Chained Beasts よくある質問",
+      "description": "Chained Beasts の戦闘、協力プレイ、進行、リリース情報についての簡単な回答です。",
+      "items": [
+        {
+          "question": "Chained Beasts とは何ですか？",
+          "answer": "Chained Beasts は Featherweight Games の1〜4人協力プレイ・グラディエーター・ローグライトです。プレイヤーは闘技場で互いに鎖でつながれ、3幕9戦を戦い抜き、スキル、武器、観客の支持、持続する傷を活用してローマを目指します。"
+        },
+        {
+          "question": "Chained Beasts は何人で遊べますか？",
+          "answer": "Chained Beasts は1〜4人に対応し、オンライン協力、共有・分割画面、クロスプラットフォーム対戦、Remote Play Together を利用できます。"
+        },
+        {
+          "question": "Chained Beasts の鎖はどう機能しますか？",
+          "answer": "Chained Beasts のすべての剣闘士は仲間と物理的につながっています。鎖は敵を転倒させて背後からの攻撃機会を作れますが、移動も共有するため、回避や後退でパーティ全体が位置を崩されることがあります。"
+        },
+        {
+          "question": "Chained Beasts の初心者はまず何をすべきですか？",
+          "answer": "Chained Beasts を始めたばかりのプレイヤーは、ブロックと投げのチュートリアルを終え、開けた場所で鎖の足払いを練習し、投げる前に予備の武器を確認しましょう。"
+        },
+        {
+          "question": "Chained Beasts はいつリリースされましたか？",
+          "answer": "Chained Beasts は2026年10月15日、Steamを通じてWindowsとmacOS向けにリリースされました。無料体験版が配信されており、通常価格は19.99ドルです。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "闘技場へ飛び込む準備はできましたか？",
+      "description": "仲間と鎖でつながり、8種のビーストを極め、70以上の状態異常を生き抜きましょう。無料の Chained Beasts ガイドがサポートします。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Steamでプレイ"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Chained Beasts ガイド",
+    "overviewDescription": "初心者向けのコツ、上級テクニック、体験版のアドバイス、ミスの修正、Chained Beasts の完全攻略を紹介します。"
+  },
+  "characters": {
+    "overviewTitle": "Chained Beasts キャラクター",
+    "overviewDescription": "Chained Beasts の全キャラクターとクラスを比較し、狼、パンサー、役割別のビルドを計画しましょう。"
+  },
+  "combat": {
+    "overviewTitle": "Chained Beasts 戦闘とビルド",
+    "overviewDescription": "ボス戦、難易度、ソロラン、あらゆるパーティ向けの Chained Beasts 最強ビルドを解説します。"
+  },
+  "modes": {
+    "overviewTitle": "Chained Beasts ゲームモード",
+    "overviewDescription": "Chained Beasts のマルチプレイ、協力プレイ、分割画面、クロスプレイ、シングルプレイの詳細を確認できます。"
+  },
+  "platforms": {
+    "overviewTitle": "Chained Beasts 対応プラットフォーム",
+    "overviewDescription": "Steam、PC、PS5、Xbox、Switch、Steam Deck で Chained Beasts をプレイするための各プラットフォーム情報をまとめています。"
+  },
+  "release": {
+    "overviewTitle": "Chained Beasts リリースと更新",
+    "overviewDescription": "Chained Beasts の発売日、体験版、ローンチ情報、オープンベータ、リリース後の更新を追いましょう。"
+  },
+  "community": {
+    "overviewTitle": "Chained Beasts コミュニティ",
+    "overviewDescription": "Reddit と Discord で Chained Beasts コミュニティに参加し、レビューを読み、動作環境を確認しましょう。"
+  },
+  "shared": {
+    "wikiNavigation": "Wiki ナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新日",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "Roblox でプレイ",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "利用できるガイドはまだありません。しばらくしてから再度ご確認ください。"
+  },
+  "footer": {
+    "aboutTitle": "Chained Beasts Wiki",
+    "about": "Chained Beasts Wiki は、Featherweight Games のグラディエーター・ローグライトに関するビースト、スキル、状態異常、武器、ボス、ビルド、協力プレイ戦術を扱う独立したファン制作のガイドハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "© 2026 Chained Beasts Wiki. Featherweight Games および Valve とは提携していません。",
+    "description": "Steam の1〜4人協力プレイ・グラディエーター・ローグライト。8種のビースト、70以上の状態異常、過酷な闘技場ラン。",
+    "playGame": "Steamでプレイ",
+    "officialDiscord": "公式 Discord",
+    "officialYoutube": "公式 YouTube",
+    "vvBuilder": "公式 X",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "キャラクター",
+    "bossGuides": "ボス戦",
+    "buildGuide": "最強ビルド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}

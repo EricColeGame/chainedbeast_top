@@ -1,1 +1,486 @@
-{}
+{
+  "site": {
+    "name": "Chained Beasts Wiki",
+    "shortName": "Chained Beasts",
+    "tagline": "Bêtes, builds, boss et guides coop",
+    "description": "Découvrez Chained Beasts grâce aux guides débutants, aux déblocages de bêtes, aux compétences, aux afflictions, aux armes, aux stratégies de boss, aux conseils coop, aux détails des plateformes et aux dernières mises à jour.",
+    "legalNotice": "Wiki de fans non officiel consacré à Chained Beasts. Réalisé par des joueurs, pour des joueurs."
+  },
+  "nav": {
+    "guide": "Guide",
+    "characters": "Personnages",
+    "combat": "Combat",
+    "modes": "Modes",
+    "platforms": "Plateformes",
+    "release": "Sortie",
+    "community": "Communauté"
+  },
+  "home": {
+    "meta": {
+      "title": "Chained Beasts Wiki — Guides, builds, boss et astuces coop",
+      "description": "Maîtrisez Chained Beasts : guides débutants, combat à la chaîne, stratégies de boss, rôles, builds, coop et actualités du lancement."
+    },
+    "hero": {
+      "eyebrow": "Roguelite de gladiateurs en coop",
+      "title": "Chained Beasts Wiki",
+      "description": "Combattez dans des arènes de gladiateurs brutales tout en étant enchaîné à vos amis. Explorez les bêtes, compétences, armes, afflictions, boss, builds et stratégies coop.",
+      "stats": [
+        "Sortie le 15 octobre 2026",
+        "8 bêtes",
+        "70+ afflictions",
+        "604 avis Steam"
+      ],
+      "primaryCta": "Guide du débutant",
+      "secondaryCta": "Jouer sur Steam",
+      "tertiaryCta": "Bande-annonce officielle",
+      "videoLabel": "Bande-annonce officielle de lancement de Chained Beasts"
+    },
+    "updates": {
+      "title": "Dernières mises à jour",
+      "browse": "Parcourir tous les guides",
+      "viewAll": "Tout voir"
+    },
+    "start": {
+      "eyebrow": "Commencez ici",
+      "title": "Votre parcours dans Chained Beasts",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guide du débutant",
+          "description": "Apprenez la chaîne à la cheville, réussissez votre premier croc-en-jambe à la chaîne et gardez une arme de rechange prête avant les premières vagues de l'arène."
+        },
+        {
+          "number": "2",
+          "title": "Choisissez votre rôle",
+          "description": "Comparez les rôles de première ligne, d'ancrage, de fauteur de chaos et de quartier-maître pour former une équipe stable adaptée à votre effectif."
+        },
+        {
+          "number": "3",
+          "title": "Meilleurs builds",
+          "description": "Construisez votre build autour du contrôle de la chaîne, des lancers sûrs, de la faveur du public et des afflictions qui gardent votre attaque principale utilisable."
+        },
+        {
+          "number": "4",
+          "title": "Préparation des boss",
+          "description": "Lisez les annonces des champions, soignez les blessures avant la porte et transformez murs à pointes, fosses à serpents et urnes en finishers."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Pages populaires",
+      "title": "Guides Chained Beasts tendance",
+      "quickLinks": [
+        "Guide du débutant",
+        "Combats de boss",
+        "Meilleurs builds",
+        "Rôles coop"
+      ],
+      "cards": [
+        {
+          "badge": "Débutant",
+          "title": "Guide du débutant Chained Beasts",
+          "description": "Crocs-en-jambe à la chaîne, lancers sûrs, choix de soins et premiers pas pour garder un nouveau gladiateur en vie.",
+          "href": "/guide/chained-beasts-beginner-guide"
+        },
+        {
+          "badge": "Combat",
+          "title": "Combats de boss Chained Beasts",
+          "description": "Annonces des boss, positionnement de la chaîne, soin des blessures et tactiques phase par phase contre les champions de l'arène.",
+          "href": "/combat/chained-beasts-boss-fights"
+        },
+        {
+          "badge": "Builds",
+          "title": "Meilleurs builds Chained Beasts",
+          "description": "Des modèles de builds sûrs pour débutants, axés sur la chaîne, l'arène et le combat à distance, en solo comme en coop.",
+          "href": "/combat/chained-beasts-best-builds"
+        },
+        {
+          "badge": "Rôles",
+          "title": "Classes Chained Beasts",
+          "description": "Rôles de première ligne, d'ancrage, de fauteur de chaos et de quartier-maître, avec la composition d'équipe selon le nombre de joueurs.",
+          "href": "/characters/chained-beasts-classes"
+        },
+        {
+          "badge": "Coop",
+          "title": "Guide coop Chained Beasts",
+          "description": "Déplacements partagés, attribution des rôles, récupération après un enchevêtrement et habitudes pour garder une chaîne de quatre joueurs en vie.",
+          "href": "/modes/chained-beasts-co-op"
+        },
+        {
+          "badge": "Mis à jour",
+          "title": "Plan de mise à jour Chained Beasts",
+          "description": "Détails du lancement, correctifs après la sortie, plans d'équilibrage, améliorations de progression et contenus à venir.",
+          "href": "/release/chained-beasts-update"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Qu'est-ce que Chained Beasts ?",
+      "paragraphs": [
+        "Chained Beasts est un roguelite de gladiateurs en coop pour 1 à 4 joueurs développé par Featherweight Games. Chaque gladiateur est physiquement enchaîné à ses coéquipiers, ce qui transforme chaque esquive, charge et lancer d'arme en un problème de mouvement collectif. Une partie comprend neuf combats répartis en trois actes, avec des champions d'arène à la fin de chaque segment.",
+        "Entre les combats, les joueurs apprennent des compétences, dépensent des pièces en armes et équipements, gagnent la faveur du public et débloquent de nouveaux personnages. Les blessures persistent au fil des journées dans l'arène, et les potions peuvent échanger un soulagement de la douleur contre de nouvelles afflictions. Une bonne partie repose donc sur la discipline de la chaîne, des soins prudents et l'exploitation des dangers comme les urnes, les murs à pointes et les fosses à serpents."
+      ],
+      "stats": [
+        {
+          "label": "Développeur",
+          "value": "Featherweight Games"
+        },
+        {
+          "label": "Sortie",
+          "value": "15 octobre 2026"
+        },
+        {
+          "label": "Joueurs",
+          "value": "1–4"
+        },
+        {
+          "label": "Genre",
+          "value": "Roguelite coop"
+        },
+        {
+          "label": "Plateforme",
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "Bêtes",
+          "value": "8"
+        },
+        {
+          "label": "Afflictions",
+          "value": "70+"
+        },
+        {
+          "label": "Note Steam",
+          "value": "Très positive"
+        }
+      ],
+      "cta": "Découvrir tous les guides"
+    },
+    "explore": {
+      "title": "Explorez Chained Beasts",
+      "description": "Utilisez ces guides Chained Beasts pour apprendre la chaîne, maîtriser le combat en arène, choisir un rôle, planifier votre progression et suivre les mises à jour après le lancement.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guide du débutant Chained Beasts",
+          "description": "Apprenez le lien de chaîne, les bases du combat, les dangers de l'arène, les choix de soins et les premiers pas pour garder un nouveau gladiateur en vie.",
+          "href": "/guide/chained-beasts-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Terminez le tutoriel de blocage et de lancer avant d'entamer une véritable partie dans l'arène."
+            },
+            {
+              "label": "2",
+              "detail": "Gardez la chaîne visible, annoncez vos déplacements et entraînez-vous à un croc-en-jambe sur terrain dégagé."
+            },
+            {
+              "label": "3",
+              "detail": "Identifiez une arme de rechange avant chaque lancer pour ne jamais vous retrouver les mains vides."
+            },
+            {
+              "label": "4",
+              "detail": "Utilisez les lignes Variété, Tempo et Carnage de la carte de score pour choisir une amélioration en vue du prochain combat."
+            },
+            {
+              "label": "5",
+              "detail": "Gérez les potions avec prudence et choisissez une affliction qui laisse votre attaque principale utilisable."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guide de gameplay Chained Beasts",
+          "description": "Comprenez la structure des parties, la faveur du public, les choix de compétences, l'économie des armes et les déplacements partagés imposés par la chaîne.",
+          "href": "/guide/chained-beasts-advanced-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "9 combats",
+              "detail": "Chaque partie comprend neuf combats répartis en trois actes, avec un boss à la fin de chaque segment."
+            },
+            {
+              "label": "Chaîne",
+              "detail": "Un balayage volontaire peut faire trébucher les ennemis et ouvrir des fenêtres de coup dans le dos sans dépenser de munitions."
+            },
+            {
+              "label": "Public",
+              "detail": "La faveur du public s'accumule pendant une partie et alimente les récompenses, améliorations et progrès des personnages."
+            },
+            {
+              "label": "Compétences",
+              "detail": "Plus de 70 compétences sont disponibles. Choisissez des améliorations qui soutiennent le build déjà en place."
+            },
+            {
+              "label": "Lancers",
+              "detail": "Les lancers d'armes ajoutent une pression à distance, mais gardez une arme de rechange à portée avant de vous engager."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Personnages et bêtes de Chained Beasts",
+          "description": "Comparez les kits des gladiateurs, les parcours de déblocage, les archétypes de rôle et les compositions d'équipe pour les chaînes en solo, duo et à quatre joueurs.",
+          "href": "/characters/chained-beasts-all-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Première ligne",
+              "detail": "Déclenche les combats, met la pression sur les ennemis et attire l'attention pendant que la chaîne maintient la formation."
+            },
+            {
+              "label": "Ancrage",
+              "detail": "Tient le terrain, contrôle l'espace et indique la direction lorsque l'équipe s'enroule autour d'un pilier."
+            },
+            {
+              "label": "Chaos",
+              "detail": "Transforme urnes, murs à pointes et fosses à serpents en dégâts tout en s'éloignant sur la chaîne."
+            },
+            {
+              "label": "Soutien",
+              "detail": "Gère les pièces, potions, faveurs du public et récupération pour permettre à l'équipe de se reformer."
+            },
+            {
+              "label": "Déblocages",
+              "detail": "La faveur du public, les pièces, les victoires contre les boss et 60 succès Steam font progresser les déblocages de personnages."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guide de combat Chained Beasts",
+          "description": "Étudiez les annonces des boss, les crocs-en-jambe à la chaîne, les éliminations par danger, la gestion des blessures et les tactiques phase par phase contre les champions de l'arène.",
+          "href": "/combat/chained-beasts-boss-fights",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Lisez les annonces d'ouverture du champion avant de dépenser armes, potions ou faveur du public."
+            },
+            {
+              "label": "2",
+              "detail": "Gardez l'ancrage au plus près du boss et annoncez chaque esquive pour que la chaîne n'entraîne pas un coéquipier dans un coup."
+            },
+            {
+              "label": "3",
+              "detail": "Balayez une chaîne tendue sur la trajectoire de charge du boss pour le faire tomber et créer une fenêtre de suivi sûre."
+            },
+            {
+              "label": "4",
+              "detail": "Soignez les blessures avant la porte ; potions et chirurgie sont plus sûres entre les combats que pendant une rencontre avec un champion."
+            },
+            {
+              "label": "5",
+              "detail": "Terminez avec une pression de lancer-échange ou redirigez le boss vers un mur à pointes ou une fosse à serpents."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guide de progression Chained Beasts",
+          "description": "Planifiez vos dépenses de pièces, choix de compétences, déblocages de personnages, soins des blessures et votre parcours des premières vagues de l'arène jusqu'à Rome.",
+          "href": "/guide/chained-beasts-walkthrough",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Pièces",
+              "detail": "Économisez une partie de vos gains à chaque partie et achetez une arme décisive plutôt que trois petites améliorations."
+            },
+            {
+              "label": "Compétences",
+              "detail": "Prenez des compétences qui corrigent votre pire affrontement plutôt que d'empiler les dégâts pour un combat facile."
+            },
+            {
+              "label": "Déblocages",
+              "detail": "Progressez plus loin pour vaincre les boss et utilisez faveur du public, pièces et succès pour élargir le roster."
+            },
+            {
+              "label": "Blessures",
+              "detail": "Supportez les blessures gérables et soignez celles qui brisent votre attaque principale avant le prochain boss."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Astuces et conseils Chained Beasts",
+          "description": "Adoptez un positionnement de chaîne efficace, des routines lancer-échange, le bon timing des potions et de bonnes habitudes de faveur du public pour éviter les erreurs qui mettent fin aux parties.",
+          "href": "/guide/chained-beasts-tips-and-tricks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Chaîne",
+              "detail": "Fixez la ligne de croc-en-jambe avant qu'une vague ne vous atteigne et revenez sur vos pas lorsque les maillons s'enroulent autour d'un pilier."
+            },
+            {
+              "label": "Lancers",
+              "detail": "Annoncez le lancer, plantez vos pieds et confirmez une arme de rechange avant de lâcher prise."
+            },
+            {
+              "label": "Potions",
+              "detail": "Buvez assez tôt pour que les effets secondaires se dissipent avant la prochaine porte, pas pendant l'armement d'un boss."
+            },
+            {
+              "label": "Public",
+              "detail": "Les éliminations environnementales et les finishers spectaculaires gagnent la faveur plus vite que des dégâts sûrs mais faibles."
+            },
+            {
+              "label": "Chirurgie",
+              "detail": "Gardez les soins lourds pour les temps morts entre les combats plutôt que pour une mêlée en cours."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Tier list Chained Beasts",
+          "description": "Classez les quatre rôles coop selon la stabilité de la chaîne, le confort des débutants et l'utilité contre les boss, puis ajustez selon votre effectif et vos gladiateurs débloqués.",
+          "href": "/characters/chained-beasts-classes",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Ancrage — meilleure stabilité de chaîne : tient le terrain, dirige le désenroulement et garde une équipe emmêlée calme."
+            },
+            {
+              "label": "A",
+              "detail": "Première ligne — donne le tempo et attire les coups du boss, mais a besoin d'un partenaire qui ne tire pas sur la chaîne en pleine attaque."
+            },
+            {
+              "label": "B",
+              "detail": "Fauteur de chaos — transforme les dangers de l'arène en dégâts, avec plus de risque lorsque la formation est serrée."
+            },
+            {
+              "label": "C",
+              "detail": "Quartier-maître — gère les pièces, potions, faveurs du public et la récupération ; plus fort sur une partie entière que sur un seul combat."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Actualités et mises à jour Chained Beasts",
+          "description": "Suivez les détails confirmés de la sortie, le prix de lancement, les correctifs, les plans d'équilibrage, les améliorations de progression et les contenus à venir.",
+          "href": "/release/chained-beasts-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Sortie",
+              "detail": "Chained Beasts est sorti le 15 octobre 2026 sur Windows et macOS via Steam."
+            },
+            {
+              "label": "Prix",
+              "detail": "Le prix standard est de 19,99 $, avec une réduction de lancement de 35 % à 12,99 $ jusqu'au 29 octobre."
+            },
+            {
+              "label": "Correctifs",
+              "detail": "La première mise à jour après le lancement est arrivée le 20 octobre 2026 ; consultez Steam pour les notes actuelles."
+            },
+            {
+              "label": "Feuille de route",
+              "detail": "Featherweight Games a présenté des correctifs, des changements d'équilibrage, des améliorations de progression et de nouveaux contenus."
+            },
+            {
+              "label": "Démo",
+              "detail": "Une démo gratuite est disponible sur Steam et couvre la première boucle d'arène en coop."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ Chained Beasts",
+      "description": "Des réponses rapides sur le combat, la coop, la progression et les détails de sortie de Chained Beasts.",
+      "items": [
+        {
+          "question": "Qu'est-ce que Chained Beasts ?",
+          "answer": "Chained Beasts est un roguelite de gladiateurs en coop pour 1 à 4 joueurs développé par Featherweight Games. Les joueurs sont enchaînés ensemble dans l'arène, traversent neuf combats répartis en trois actes et utilisent compétences, armes, faveur du public et blessures persistantes pour progresser vers Rome."
+        },
+        {
+          "question": "Combien de joueurs peuvent jouer à Chained Beasts ?",
+          "answer": "Chained Beasts prend en charge de un à quatre joueurs, avec coop en ligne, écran partagé et coopératif, multijoueur multiplateforme et Remote Play Together."
+        },
+        {
+          "question": "Comment fonctionne la chaîne dans Chained Beasts ?",
+          "answer": "Chaque gladiateur de Chained Beasts est physiquement lié à ses coéquipiers. La chaîne peut faire trébucher les ennemis et ouvrir des fenêtres de coup dans le dos, mais elle partage aussi les déplacements : une esquive ou une retraite peut donc déplacer tout le groupe hors de position."
+        },
+        {
+          "question": "Que doivent faire les débutants en premier dans Chained Beasts ?",
+          "answer": "Les nouveaux joueurs de Chained Beasts doivent terminer le tutoriel de blocage et de lancer, s'entraîner à un croc-en-jambe sur terrain dégagé et confirmer une arme de rechange avant de lancer."
+        },
+        {
+          "question": "Quand Chained Beasts est-il sorti ?",
+          "answer": "Chained Beasts est sorti le 15 octobre 2026 sur Windows et macOS via Steam. Une démo gratuite est disponible et le prix standard est de 19,99 $."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Prêt à entrer dans l'arène ?",
+      "description": "Enchaînez-vous à vos amis, maîtrisez les huit bêtes et survivez à plus de 70 afflictions grâce à nos guides Chained Beasts gratuits.",
+      "primary": "Lire le guide du débutant",
+      "secondary": "Jouer sur Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guides Chained Beasts",
+    "overviewDescription": "Commencez avec les conseils pour débutants, les tactiques avancées, les astuces pour la démo, les corrections d'erreurs et une soluce complète de Chained Beasts."
+  },
+  "characters": {
+    "overviewTitle": "Personnages Chained Beasts",
+    "overviewDescription": "Comparez tous les personnages et classes de Chained Beasts, puis planifiez des builds de loup, de panthère et par rôle."
+  },
+  "combat": {
+    "overviewTitle": "Combat et builds Chained Beasts",
+    "overviewDescription": "Découvrez les combats de boss, les niveaux de difficulté, les parties solo et les meilleurs builds Chained Beasts pour chaque équipe."
+  },
+  "modes": {
+    "overviewTitle": "Modes de jeu Chained Beasts",
+    "overviewDescription": "Consultez les détails du multijoueur, de la coop, de l'écran partagé, du crossplay et du solo dans Chained Beasts."
+  },
+  "platforms": {
+    "overviewTitle": "Plateformes Chained Beasts",
+    "overviewDescription": "Retrouvez Chained Beasts sur Steam, PC, PS5, Xbox, Switch et Steam Deck avec des détails propres à chaque plateforme."
+  },
+  "release": {
+    "overviewTitle": "Sortie et mises à jour Chained Beasts",
+    "overviewDescription": "Suivez la date de sortie, la démo, les détails du lancement, la bêta ouverte et les mises à jour de Chained Beasts."
+  },
+  "community": {
+    "overviewTitle": "Communauté Chained Beasts",
+    "overviewDescription": "Rejoignez la communauté Chained Beasts sur Reddit et Discord, lisez les avis et consultez la configuration système requise."
+  },
+  "shared": {
+    "wikiNavigation": "Navigation du wiki",
+    "activeCodes": "Codes actifs",
+    "updated": "Mis à jour",
+    "viewAllCodes": "Voir tous les codes",
+    "playOnRoblox": "Jouer sur Roblox",
+    "inThisSection": "Dans cette section",
+    "tableOfContents": "Table des matières",
+    "nextSteps": "Étapes suivantes",
+    "needHelp": "Besoin d'aide ?",
+    "relatedReading": "Lectures associées",
+    "relatedGuides": "Guides associés",
+    "readMore": "Lire la suite",
+    "officialMedia": "Médias officiels",
+    "home": "Accueil",
+    "noGuidesAvailable": "Aucun guide disponible pour le moment. Revenez bientôt !"
+  },
+  "footer": {
+    "aboutTitle": "Chained Beasts Wiki",
+    "about": "Chained Beasts Wiki est un centre de guides indépendant créé par des fans, consacré aux bêtes, compétences, afflictions, armes, boss, builds et stratégies coop du roguelite de gladiateurs de Featherweight Games.",
+    "quickLinks": "Liens rapides",
+    "guides": "Guides",
+    "legal": "Mentions légales",
+    "copyright": "© 2026 Chained Beasts Wiki. Sans affiliation avec Featherweight Games ou Valve.",
+    "description": "Roguelite de gladiateurs en coop pour 1 à 4 joueurs sur Steam. 8 bêtes, 70+ afflictions et des parties brutales dans l'arène.",
+    "playGame": "Jouer sur Steam",
+    "officialDiscord": "Discord officiel",
+    "officialYoutube": "YouTube officiel",
+    "vvBuilder": "X officiel",
+    "beginnerGuide": "Guide du débutant",
+    "raceGuides": "Personnages",
+    "bossGuides": "Combats de boss",
+    "buildGuide": "Meilleurs builds",
+    "privacyPolicy": "Politique de confidentialité",
+    "termsOfService": "Conditions d'utilisation"
+  }
+}
